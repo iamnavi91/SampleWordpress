@@ -7,8 +7,6 @@
     android:id="@+id/drawer"
     tools:context=".MainActivity">
 
-    <include layout="@layout/context"/>
-
     <com.google.android.material.navigation.NavigationView
         android:id="@+id/navigation_view"
         android:layout_width="wrap_content"
