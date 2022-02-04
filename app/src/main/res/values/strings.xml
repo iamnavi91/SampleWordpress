@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Wordpress Gyms Circle</string>
+    <string name="app_logo">Gyms Circle</string>
+    <string name="URL">https://gymscircle.com/wp-json/wp/v2/posts</string>
+
+
+    <!--    Navigation Menu-->
+    <string name="profile">Profile</string>
+    <string name="menu_slogan" />
+    <string name="post">Posts</string>
+    <string name="search">Search</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="category">Categories</string>
+    <string name="share">Share</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="bank">Bank</string>
+    <string name="shop">Shop</string>
+    <string name="education">Education</string>
+    <string name="rate_us">Rate US</string>
+    <string name="contact_us">Contact US</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+
+</resources>
