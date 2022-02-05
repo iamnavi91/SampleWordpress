@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Wordpress Gyms Circle</string>
     <string name="app_logo">Gyms Circle</string>
-    <string name="URL">https://gymscircle.com/wp-json/wp/v2/posts</string>
 
 
     <!--    Navigation Menu-->
@@ -19,9 +18,18 @@
     <string name="education">Education</string>
     <string name="rate_us">Rate US</string>
     <string name="contact_us">Contact US</string>
-
     <string name="open">open</string>
     <string name="close">close</string>
 
+    <!--    Ml Kit-->
+    <string name="translated_text_hint">Translated text</string>
+    <string name="downloaded_models_label">Downloaded models: %1$s</string>
+    <string name="translate_progress">Translating&#8230;</string>
+    <string name="delete_model">Delete Model</string>
+    <string name="download_model">Download Model</string>
+    <string name="unknown_error">Unknown error occurred.</string>
+    <string name="source_text_hint">Source text</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

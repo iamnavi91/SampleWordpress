@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.161" />
+        <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/drawable/ic_baseline_translate_32.xml" value="0.161" />
+        <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/drawable/ic_compare_arrows_black_24dp.xml" value="0.161" />
+        <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/drawable/ic_file_download_white_24dp.xml" value="0.161" />
+        <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/drawable/logo_mlKit.xml" value="0.1745" />
+        <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/drawable/logo_mlkit.xml" value="0.161" />
         <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/layout/activity_translate_main.xml" value="0.16145833333333334" />
         <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/layout/context.xml" value="0.25" />
         <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/layout/menu_header.xml" value="0.1" />
         <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/layout/post_view.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/layout/translate_fragment.xml" value="0.14375" />
         <entry key="..\:/Users/B00TCAMP/AndroidStudioProjects/WordpressGymscircle/app/src/main/res/menu/nav_menu.xml" value="0.1" />
       </map>
     </option>
